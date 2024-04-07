@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @QuAaron
 - 👀 Cooking and UI dev
 - 🌱 Learning how to stop being a people pleaser
-- 🙌 open to any sideworks
+- 🙌 open to any fun projects
 - 📫 quyayun@gmail.com
 
 <!---
